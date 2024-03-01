@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saurabh852879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh852879" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh-yadav-6406311bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh yadav" height="30" width="40" /></a>
 <a href="https://codesandbox.com/saurabhyadav0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="saurabhyadav0" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabh_y12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_yadav12345" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurabhyadav0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhyadav0" height="30" width="40" /></a>
